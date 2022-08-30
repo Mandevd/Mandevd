@@ -1,4 +1,4 @@
-<!--![_](https://user-images.githubusercontent.com/99964027/187333918-4fb3f87c-e008-4523-83d6-3f4829fe90bc.jpeg)
+
 
 ### Hi there 👋
 
