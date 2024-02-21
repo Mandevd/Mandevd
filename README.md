@@ -3,6 +3,7 @@
 ### Hi there 👋
 ![GitHub language count](https://img.shields.io/github/languages/count/MandevD/S30?logo=github&style=plastic)
 
+![Mandev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mandevd&hide=contribs,prs)
 
 
 <!-- **Mandevd/Mandevd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
