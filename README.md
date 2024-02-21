@@ -2,6 +2,7 @@
 
 ### Hi there 👋
 ![GitHub language count](https://img.shields.io/github/languages/count/MandevD/S30?logo=github&style=plastic)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandevd&hide_progress=true)
 
 
 
